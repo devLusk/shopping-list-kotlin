@@ -1,0 +1,1 @@
+![Shopping List Screenshot](./assets/screenshot.png)
